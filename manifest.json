@@ -1,0 +1,37 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Kingdom Roles",
+    "description": "Random kingdom role assignment with hearts, potion effects and particles.",
+    "uuid": "45277050-06d1-4db5-ad66-cc61330aa3e6",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      21,
+      100
+    ]
+  },
+  "modules": [
+    {
+      "type": "script",
+      "language": "javascript",
+      "uuid": "b82e9af1-8c2d-4b21-9d1d-9df499380738",
+      "version": [
+        1,
+        0,
+        0
+      ],
+      "entry": "scripts/main.js"
+    }
+  ],
+  "dependencies": [
+    {
+      "module_name": "@minecraft/server",
+      "version": "2.1.0"
+    }
+  ]
+}
