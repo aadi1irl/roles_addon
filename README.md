@@ -72,6 +72,8 @@ Kingdom-Roles/
     └── main.js
 ```
 
+[curseforge](https://www.curseforge.com/minecraft-bedrock/addons/kingdom-roles)
+
 ## 🚧 Future Plans
 
 - [ ] Custom role GUI
